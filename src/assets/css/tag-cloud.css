@@ -1,0 +1,36 @@
+.tag-cloud {
+    font-size: 100%;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2em;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-align: center;
+    text-indent: 0
+}
+
+.tag-cloud a:link {
+    text-decoration: none
+}
+
+.tag-cloud a:visited {
+    text-decoration: none
+}
+
+.tag-cloud a:hover {
+    text-decoration: underline;
+}
+
+.tag-cloud a:active {
+    text-decoration: underline;
+}
+
+.tag-cloud-word {
+    padding: 0;
+    position: relative
+}
+
+.tag-cloud-word a {
+    text-decoration: none
+}
