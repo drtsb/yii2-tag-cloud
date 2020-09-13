@@ -13,13 +13,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 To install, either run
 
 ```
-$ php composer.phar require alexander-suter/yii2-tag-cloud "*"
+$ php composer.phar require drtsb/yii2-tag-cloud "*"
 ```
 
 or add
 
 ```
-"alexander-suter/yii2-tag-cloud": "*"
+"drtsb/yii2-tag-cloud": "*"
 ```
 
 to the ```require``` section of your `composer.json` file.
